@@ -46,26 +46,27 @@ run in development with `python3 app.py`
 
 
 
-### Stack
-
-features working
-
-grab nodes 
-lines updating
-deleting single nodes
-double click to add to context and remove with ui
-multiselect with shift and multi delete
 
 
-not working:
-multi grab
+### Features
 
+#### ✅ Working
+- **Node Interaction**
+  - 🖱️ **Grab and move** individual nodes
+  - 🔄 **Real-time line updates** when nodes are moved
+  - ❌ **Delete individual nodes**
 
+- **Context Menu**
+  - ✨ **Double-click** to add nodes to the context menu
+  - 🗑️ **UI support** for removing nodes from the context menu
 
-todo
+- **Multi-Selection**
+  - ⇧ **Multi-select nodes** with Shift
+  - 🧹 **Delete multiple nodes** at once
 
+#### 🚧 In Progress
+- **Multi-Node Grab**
 
----
 
 Built in B4Y3RW4LD Hackathon.
 
